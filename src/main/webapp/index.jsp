@@ -1,5 +1,9 @@
+<%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
+<head>
+    <title> DevOps </title>
+</head>
 <body>
-<h2><%= "Hello World!" %></h2>
+    <h2><%= "Hello ISET KAIROUAN DANS VOTRE COURS DEVOPS DE L AU 2025-2026" %></h2>
 </body>
 </html>
